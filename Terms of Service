@@ -1,0 +1,51 @@
+Terms of Service for Playlist Cleaner
+Last updated: July 29, 2026
+
+These Terms of Service ("Terms") govern your use of Playlist Cleaner (the "App"), a mobile application that helps you find and remove duplicate videos from your YouTube playlists. By downloading, signing in, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+
+1. Description of the service
+Playlist Cleaner lets you sign in with your Google Account to:
+
+View your YouTube playlists and their contents
+Scan playlists to detect duplicate videos
+Remove duplicate videos from a playlist
+Search YouTube and add videos to an existing or new playlist
+The App acts only as a client to the official YouTube Data API — it does not host, store, or serve any video content itself.
+
+2. Google Account and YouTube access
+To use the App's features you must sign in with a Google Account and grant the App permission to access your YouTube data via Google's OAuth consent screen. Your use of your Google Account and YouTube data through the App remains subject to:
+
+Google Terms of Service
+YouTube Terms of Service
+You can revoke the App's access at any time via Google Account permissions.
+
+3. Your responsibilities
+You agree to:
+
+Use the App only with a Google Account you own or are authorized to manage
+Not use the App to violate YouTube's Terms of Service or Community Guidelines
+Not attempt to reverse engineer, decompile, or misuse the App beyond its intended purpose
+Destructive actions: removing duplicate videos permanently deletes those entries from your playlist. The App does not maintain a backup of removed items — this action cannot be undone through the App. Review what will be removed before confirming.
+
+4. No warranty
+The App is provided "as is" and "as available," without warranties of any kind, express or implied, including but not limited to accuracy, reliability, or fitness for a particular purpose. Duplicate detection is based on matching video IDs and may not catch every case you consider a duplicate (e.g., different uploads of the same song).
+
+5. Limitation of liability
+To the maximum extent permitted by law, the developer of Playlist Cleaner is not liable for any indirect, incidental, or consequential damages arising from your use of the App, including loss of playlist data resulting from the removal feature.
+
+6. Changes to the App or Terms
+We may update the App or these Terms at any time. Continued use of the App after changes take effect constitutes acceptance of the revised Terms. Material changes will be reflected by updating the "Last updated" date above.
+
+7. Termination
+You may stop using the App at any time by signing out and/or deleting it from your device. We may discontinue the App or restrict access at our discretion, including if we become aware of misuse.
+
+8. Third-party services
+The App relies on the YouTube Data API and Google Sign-In, which are third-party services outside our control. We are not responsible for outages, changes, or restrictions imposed by Google/YouTube that affect the App's functionality.
+
+9. Governing law
+These Terms are governed by generally applicable consumer protection and data privacy principles, without designating a specific jurisdiction's courts as exclusive. Where local law grants you mandatory rights, those rights remain unaffected.
+
+10. Contact
+Questions about these Terms can be sent to: tuannguyen24479@gmail.com
+
+See also: Privacy Policy
